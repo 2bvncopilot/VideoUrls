@@ -1,0 +1,54 @@
+1
+00:00:00,000 --> 00:00:05,000
+Khi tôi còn nhỏ, tôi nghèo đến mức mỗi bữa ăn chỉ có cơm trắng với chút muối.
+
+2
+00:00:05,000 --> 00:00:11,000
+Mỗi ngày, tôi phải gánh nước thuê ngoài chợ để kiếm vài đồng mua thức ăn.
+
+3
+00:00:11,000 --> 00:00:14,000
+Tôi về nhà khi mọi người đã ngủ.
+
+4
+00:00:14,000 --> 00:00:19,000
+Tôi học một mình dưới ngọn đèn dầu mờ, chữ thì nhòe và mờ.
+
+5
+00:00:19,000 --> 00:00:22,000
+Nhưng tôi chưa bao giờ ngừng mơ ước.
+
+6
+00:00:22,000 --> 00:00:25,000
+Người ta thường nói, mình còn không có cái ăn.
+
+7
+00:00:25,000 --> 00:00:27,000
+Học để làm gì?
+
+8
+00:00:27,000 --> 00:00:29,000
+Tôi chỉ biết một điều.
+
+9
+00:00:29,000 --> 00:00:34,000
+Nếu tôi không học, đời tôi sẽ mãi quanh quẩn bên gánh nước ấy.
+
+10
+00:00:34,000 --> 00:00:36,000
+Tôi sẽ không bao giờ vượt lên được.
+
+11
+00:00:36,000 --> 00:00:40,000
+Cuối cùng, tôi đã thi đủ điểm vào một ngôi trường danh tiếng.
+
+12
+00:00:40,000 --> 00:00:46,000
+Khi đặt chân lên thành phố, nhìn lại chặng đường đã đi, tôi không cảm thấy tự hào.
+
+13
+00:00:46,000 --> 00:00:50,000
+Vì tôi biết khi còn nhỏ, tôi không thông minh hơn ai.
+
+14
+00:00:50
