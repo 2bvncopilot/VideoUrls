@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:04,000
+Luis was born and raised in a crowded neighborhood in Mexico City.
+
+2
+00:00:04,000 --> 00:00:07,000
+His parents worked multiple jobs just to put food on the table,
+
+3
+00:00:07,000 --> 00:00:10,000
+and school was often an afterthought.
+
+4
+00:00:10,000 --> 00:00:16,000
+By the age of 16, Luis dropped out of high school to work full-time as a janitor in an office building,
+
+5
+00:00:16,000 --> 00:00:21,000
+determined to support his younger siblings after their father became too ill to work.
+
+6
+00:00:21,000 --> 00:00:25,000
+But Luis carried something powerful inside, ambition.
+
+7
+00:00:25,000 --> 00:00:28,000
+After mopping floors and cleaning bathrooms all day,
+
+8
+00:00:28,000 --> 00:00:33,000
+he would sit in a supply closet with a battered second-hand laptop and borrowed textbooks.
+
+9
+00:00:33,000 --> 00:00:40,000
+He taught himself basic math, English, and later physics using free online tutorials.
+
+10
+00:00:40,000 --> 00:00:43,000
+Most nights, he barely slept.
+
+11
+00:00:43,000 --> 00:00:47,000
+His coworkers didn't understand why he bothered, but Luis kept going.
+
+12
+00:00:47,000 --> 00:00:54,000
+One day, a software engineer in the building noticed him reading a coding manual and offered to help.
+
+13
+00:00:54,000 --> 00:00:57,000
+That small gesture became a turning point.
+
+14
+00:00:57,000 --> 00:01:03,000
+With mentorship and relentless self-study, Luis passed his high school equivalency exam.
+
+15
+00:01:03,000 --> 00:01:10,000
+He earned a scholarship to a local community college where he excelled and later transferred to a university.
+
+16
+00:01:10,000 --> 00:01:15,000
+Years of effort paid off, Luis graduated with a degree in mechanical engineering.
+
+17
+00:01:15,000 --> 00:01:20,000
+Today, he works for a multinational tech company designing sustainable engines
+
+18
+00:01:20,000 --> 00:01:24,000
+and mentors students from low-income backgrounds.
+
+19
+00:01:24,000 --> 00:01:28,000
+Luis visits his old office building once a year, not to clean floors,
+
+20
+00:01:28,000 --> 00:01:31,000
+but to give talks to the janitorial staff.
+
+21
+00:01:31,000 --> 00:01:32,000
+His message?
+
+22
+00:01:32,000 --> 00:01:35,000
+Where you start doesn't define where you can go.
+
+23
+00:01:35,000 --> 00:01:39,000
+With grit and learning, you can build your own future.
+

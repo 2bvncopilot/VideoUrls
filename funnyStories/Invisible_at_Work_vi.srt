@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:04,000
+Một buổi chiều tại văn phòng, Jane nghiêng người và hỏi: "Này, tớ hỏi chút được không?"
+
+2
+00:00:05,000 --> 00:00:06,000
+Mike ngẩng lên khỏi màn hình.
+
+3
+00:00:08,000 --> 00:00:09,000
+"Được chứ, có chuyện gì vậy?"
+
+4
+00:00:10,000 --> 00:00:13,000
+Jane tò mò nói: "Cậu làm ở đây lâu rồi,
+
+5
+00:00:13,000 --> 00:00:18,000
+sao chưa bao giờ thấy cậu nghỉ ngơi hay nghỉ việc vậy?" Mike ngập ngừng, nhìn xuống một lúc,
+
+6
+00:00:18,000 --> 00:00:23,000
+rồi lặng lẽ đáp: "Vì tớ sợ rằng dù có ở đây hay không thì cũng chẳng khác gì."
+
+7
+00:00:23,000 --> 00:00:29,000
+Jane chớp mắt, không biết nên cười hay khóc, rồi đưa cho anh một cái bánh donut.
